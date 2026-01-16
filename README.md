@@ -1,3 +1,10 @@
-- Paper Name 1 -- Official Github Repository Link 1
-- Paper Name 2 -- Official Github Repository Link 2
-...
+- ACL 2024 Best Resource Paper 1 -- https://github.com/paper1
+- ACL 2024 Best Resource Paper 2 -- https://github.com/paper2
+- ACL 2024 Best Resource Paper 3 -- https://github.com/paper3
+- ACL 2024 Best Resource Paper 4 -- https://github.com/paper4
+- ACL 2024 Best Resource Paper 5 -- https://github.com/paper5
+- ACL 2024 Best Resource Paper 6 -- https://github.com/paper6
+- ACL 2024 Best Resource Paper 7 -- https://github.com/paper7
+- ACL 2024 Best Resource Paper 8 -- https://github.com/paper8
+- ACL 2024 Best Resource Paper 9 -- https://github.com/paper9
+- ACL 2024 Best Resource Paper 10 -- https://github.com/paper10
